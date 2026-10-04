@@ -1,0 +1,8 @@
+# Dataset - download from Kaggle, see README
+data/
+
+# R session files
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
